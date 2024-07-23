@@ -148,7 +148,7 @@ export default function Home() {
   }
 
   return (
-    <main className="py-8">
+    <main className="py-8 min-h-screen">
       {
         !isFinished ? (
           <div className="p-2 flex flex-col justify-center items-center gap-8 w-full md:w-1/2 lg:w-1/3 mx-auto">
