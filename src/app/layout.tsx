@@ -19,7 +19,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="pt-br">
       <body className={inter.className}>
         <nav className="py-4 flex flex-col md:flex-row items-center justify-center md:justify-between gap-8 bg-blue-800">
           <h1 className="text-white font-bold text-2xl w-full text-center flex items-center gap-2 justify-center"><BiBrain/> Maus pensamentos</h1>
