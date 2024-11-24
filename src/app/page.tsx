@@ -109,7 +109,7 @@ const initialArray = [
     "description": "Comparo-me com outras pessoas que parecem se sair melhor do que eu e me coloco em posição de desvantagem.",
     "examples": ["'Meu pai prefere meu irmão mais velho a mim porque ele é mais inteligente do que eu.'", "'Não consigo suportar o fato de ela ter mais sucesso do que eu.'"],
     "score": 0,
-    "explanation": "Comparações injustas são disfuncionais porque desconsideram as diferenças individuais e contextuais, violando o princípio da singularidade e do valor intrínseco de cada pessoa. Ao se comparar com os outros sem considerar as circunstâncias únicas de cada um, cria-se uma medida injusta que não reflete a realidade das capacidades e experiências individuais."
+    "explanation": "Comparações injustas são disfuncionais porque desconsideram as diferenças individuais e contextuais, violando o princípio da singularidade e do valor intrínseco de cada pessoa. Ao se comparar com os outros sem considerar as circunstâncias únicas de cada um, cria-se uma medida injusta que não reflete a realidade das capacidades e experiências individuais. Geralmente, a comparação se dá da seguinte forma: seus pontos fracos com os pontos fortes do outro, de tal maneira que não vê o outro como ele é de fato, mas uma versão idealizada."
   }
 ]
 
